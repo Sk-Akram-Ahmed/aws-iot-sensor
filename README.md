@@ -12,8 +12,8 @@ Real-time IoT sensor data simulator and Streamlit dashboard using AWS IoT Core, 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ccv-cep.git
-cd ccv-cep
+git clone https://github.com/Sk-Akram-Ahmed/aws-iot-sensor-dashboard.git
+cd aws-iot-sensor-dashboard
 ```
 
 ### 2. Install dependencies
